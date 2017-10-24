@@ -1,0 +1,30 @@
+body {
+    background-color: cyan;
+   
+}
+
+.caja {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+
+.cajita1 {
+    height: 155px;
+    width: 155px;
+    background-color: purple;
+    position: relative;
+
+    top: -14em;
+    left: 4.5em;
+}
+
+.cajita2 {
+    height: 80px;
+    width: 80px;
+    background-color: yellow;
+    position: relative;
+
+    top: -23.7em;
+    left: 4.5em;
+}
